@@ -1,0 +1,12 @@
+{
+  "name": "tap-job-notifier",
+  "version": "1.0.0",
+  "description": "Notifies via email when a new job posting appears on TAP Academy's drives dashboard.",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}

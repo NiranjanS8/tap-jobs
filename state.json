@@ -1,0 +1,402 @@
+{
+  "2541": {
+    "title": "Salesforce dveloper",
+    "location": "Anantapur",
+    "package": 4,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, M.Sc, ME/M.Tech",
+    "createdAt": "2026-06-25T06:35:44.953Z",
+    "expired": true
+  },
+  "2542": {
+    "title": "Junior Engineer",
+    "location": "Bengaluru",
+    "package": 4.2,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA",
+    "createdAt": "2026-06-25T06:40:23.493Z",
+    "expired": true
+  },
+  "2544": {
+    "title": "Full Stack Java Developer",
+    "location": "Bengaluru",
+    "package": 8,
+    "qualification": "B.Sc, BCA, BE/B.Tech",
+    "createdAt": "2026-06-25T12:12:52.666Z",
+    "expired": true
+  },
+  "2545": {
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BE/B.Tech, BCA, ME/M.Tech",
+    "createdAt": "2026-06-25T12:19:09.123Z",
+    "expired": true
+  },
+  "2546": {
+    "title": "Software Test Engineer",
+    "location": "Bengaluru",
+    "package": 8,
+    "qualification": "B.Sc, BCA, BE/B.Tech",
+    "createdAt": "2026-06-25T12:26:19.093Z",
+    "expired": true
+  },
+  "2547": {
+    "title": "Full stack Developer",
+    "location": "Kochi",
+    "package": 5,
+    "qualification": "BE/B.Tech",
+    "createdAt": "2026-07-01T06:06:48.804Z",
+    "expired": true
+  },
+  "2548": {
+    "title": "AI/ML Engineer",
+    "location": "Angamaly",
+    "package": 5,
+    "qualification": "ME/M.Tech, M.Sc, BE/B.Tech",
+    "createdAt": "2026-07-01T11:33:43.170Z",
+    "expired": true
+  },
+  "2549": {
+    "title": "Full Stack Java Developer",
+    "location": "Bengaluru",
+    "package": 3,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, M.Sc",
+    "createdAt": "2026-07-02T12:27:48.576Z",
+    "expired": true
+  },
+  "2550": {
+    "title": "QA Intern",
+    "location": "Bengaluru",
+    "package": 3,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA",
+    "createdAt": "2026-07-02T12:46:35.345Z",
+    "expired": true
+  },
+  "2551": {
+    "title": "Software Intern",
+    "location": "Bengaluru",
+    "package": 4,
+    "qualification": "BE/B.Tech, MCA, ME/M.Tech",
+    "createdAt": "2026-07-02T13:01:18.780Z",
+    "expired": true
+  },
+  "2552": {
+    "title": "Software Developers",
+    "location": "Coimbatore",
+    "package": 3,
+    "qualification": "BCA, MCA, BE/B.Tech, M.Sc, B.Sc",
+    "createdAt": "2026-07-03T12:31:44.465Z",
+    "expired": true
+  },
+  "2553": {
+    "title": "Software Developers",
+    "location": "Kozhikode",
+    "package": 3.6,
+    "qualification": "B.Sc, BCA, BE/B.Tech",
+    "createdAt": "2026-07-03T13:18:50.546Z",
+    "expired": true
+  },
+  "2554": {
+    "title": "Salesforce dveloper",
+    "location": "Anantapur",
+    "package": 4,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-06T10:03:17.368Z",
+    "expired": true
+  },
+  "2555": {
+    "title": "Software Trainee",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BE/B.Tech, BCA, MCA, B.Sc",
+    "createdAt": "2026-07-06T13:20:17.679Z",
+    "expired": true
+  },
+  "2556": {
+    "title": "Software Development Intern",
+    "location": "Chennai",
+    "package": 3,
+    "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-06T13:54:23.380Z",
+    "expired": true
+  },
+  "2557": {
+    "title": "Jr. Frontend Developer",
+    "location": "Bengaluru",
+    "package": 6,
+    "qualification": "BE/B.Tech, BCA, MCA",
+    "createdAt": "2026-07-08T05:25:52.598Z",
+    "expired": true
+  },
+  "2558": {
+    "title": "Full Sack Developer Intern",
+    "location": "Bengaluru",
+    "package": 12,
+    "qualification": "others",
+    "createdAt": "2026-07-08T13:35:53.020Z",
+    "expired": true
+  },
+  "2559": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Chennai",
+    "package": 3,
+    "qualification": "B.Sc, BCA, MCA, BE/B.Tech, M.Sc",
+    "createdAt": "2026-07-09T11:18:32.925Z",
+    "expired": true
+  },
+  "2560": {
+    "title": "Full Stack Java Developer",
+    "location": "Indore",
+    "package": 5,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, B.Sc",
+    "createdAt": "2026-07-09T11:23:27.467Z",
+    "expired": true
+  },
+  "2561": {
+    "title": "Data Analytics Intern",
+    "location": "Bengaluru",
+    "package": 6,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, ME/M.Tech, MS, M.Sc",
+    "createdAt": "2026-07-10T12:37:50.729Z",
+    "expired": true
+  },
+  "2562": {
+    "title": "Junior Associate",
+    "location": "Pune",
+    "package": 3,
+    "qualification": "BE/B.Tech, MCA, BCA",
+    "createdAt": "2026-07-14T05:40:12.746Z",
+    "expired": true
+  },
+  "2563": {
+    "title": "Java Developer",
+    "location": "New Delhi",
+    "package": 7,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA, BCA",
+    "createdAt": "2026-07-14T09:36:03.470Z",
+    "expired": true
+  },
+  "2564": {
+    "title": "Data Analyst",
+    "location": "Bengaluru",
+    "package": 4.2,
+    "qualification": "BE/B.Tech",
+    "createdAt": "2026-07-15T10:43:28.814Z",
+    "expired": true
+  },
+  "2565": {
+    "title": "Associate Test Engineer",
+    "location": "Hyderabad",
+    "package": 3,
+    "qualification": "BE/B.Tech, B.Sc, BCA",
+    "createdAt": "2026-07-15T11:23:13.200Z",
+    "expired": true
+  },
+  "2566": {
+    "title": "Python Trainee",
+    "location": "Mumbai",
+    "package": 4.5,
+    "qualification": "others",
+    "createdAt": "2026-07-15T13:40:56.922Z",
+    "expired": true
+  },
+  "2567": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Hyderabad",
+    "package": 2.2,
+    "qualification": "B.Sc, BCA, M.Sc, MCA",
+    "createdAt": "2026-07-16T13:21:20.199Z",
+    "expired": true
+  },
+  "2568": {
+    "title": "Associate Software Developer",
+    "location": "Jaipur",
+    "package": 4.2,
+    "qualification": "BE/B.Tech, BCA, ME/M.Tech, MCA",
+    "createdAt": "2026-07-16T13:31:16.138Z",
+    "expired": true
+  },
+  "2569": {
+    "title": "Java Developer",
+    "location": "Chennai",
+    "package": 3,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc",
+    "createdAt": "2026-07-17T05:21:00.947Z",
+    "expired": true
+  },
+  "2570": {
+    "title": "AI Engineer Intern",
+    "location": "Bengaluru",
+    "package": 3.5,
+    "qualification": "BE/B.Tech",
+    "createdAt": "2026-07-20T09:35:10.346Z",
+    "expired": true
+  },
+  "2571": {
+    "title": "AI Python Developer",
+    "location": "Hyderabad",
+    "package": 7,
+    "qualification": "BE/B.Tech, ME/M.Tech",
+    "createdAt": "2026-07-20T09:55:28.372Z",
+    "expired": true
+  },
+  "2572": {
+    "title": "Software Developers",
+    "location": "Mysore",
+    "package": 2.4,
+    "qualification": "BCA, BE/B.Tech, MCA, ME/M.Tech",
+    "createdAt": "2026-07-21T07:29:32.596Z",
+    "expired": true
+  },
+  "2573": {
+    "title": "Trainee Software Developer",
+    "location": "Mysore",
+    "package": 2.2,
+    "qualification": "BE/B.Tech, BCA, MCA",
+    "createdAt": "2026-07-21T08:13:59.299Z",
+    "expired": true
+  },
+  "2574": {
+    "title": "Full Stack Developer / Software Trainee Engineer",
+    "location": "Bengaluru",
+    "package": 3,
+    "qualification": "BE/B.Tech, ME/M.Tech",
+    "createdAt": "2026-07-21T08:44:02.623Z",
+    "expired": true
+  },
+  "2575": {
+    "title": "Full Stack Developer Intern",
+    "location": "Bengaluru",
+    "package": 3,
+    "qualification": "B.Sc, B.Com, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-22T13:34:20.734Z",
+    "expired": true
+  },
+  "2576": {
+    "title": "Associate Engineer – CSD",
+    "location": "Bengaluru",
+    "package": 6,
+    "qualification": "BE/B.Tech",
+    "createdAt": "2026-07-22T14:44:31.565Z",
+    "expired": true
+  },
+  "2577": {
+    "title": "Python Fullstack Developer",
+    "location": "Noida",
+    "package": 5,
+    "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-23T08:00:11.981Z",
+    "expired": true
+  },
+  "2578": {
+    "title": "Fullstack Developer",
+    "location": "Noida",
+    "package": 4.5,
+    "qualification": "BE/B.Tech, ME/M.Tech, M.Sc, MCA",
+    "createdAt": "2026-07-23T08:08:56.232Z",
+    "expired": true
+  },
+  "2579": {
+    "title": "Trainee Odoo Developer",
+    "location": "Gujarat",
+    "package": 5,
+    "qualification": "BE/B.Tech",
+    "createdAt": "2026-07-23T08:24:01.248Z",
+    "expired": true
+  },
+  "2580": {
+    "title": "AI Engineer - Intern",
+    "location": "Hyderabad",
+    "package": 4,
+    "qualification": "BE/B.Tech, ME/M.Tech, BCA, MCA",
+    "createdAt": "2026-07-28T06:11:20.811Z",
+    "expired": true
+  },
+  "2581": {
+    "title": "Software QA Engineer",
+    "location": "Bengaluru",
+    "package": 4,
+    "qualification": "BE/B.Tech, MCA, ME/M.Tech",
+    "createdAt": "2026-07-28T09:57:19.106Z",
+    "expired": true
+  },
+  "2582": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Chennai",
+    "package": 3,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, M.Sc",
+    "createdAt": "2026-07-30T11:59:11.842Z",
+    "expired": true
+  },
+  "2583": {
+    "title": "Customer Success Engineer",
+    "location": "Bengaluru",
+    "package": 8,
+    "qualification": "BE/B.Tech, BCA, B.Com, B.Sc, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-31T12:44:40.504Z",
+    "expired": true
+  },
+  "2584": {
+    "title": "Trainee Software Engineer",
+    "location": "Bengaluru",
+    "package": 9,
+    "qualification": "BE/B.Tech, BCA, B.Com, B.Sc, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-07-31T12:57:13.569Z",
+    "expired": true
+  },
+  "2585": {
+    "title": "Python Full Stack Developer",
+    "location": "Tirupati",
+    "package": 2.4,
+    "qualification": "BE/B.Tech, BCA, B.Com, B.Sc, MCA, ME/M.Tech",
+    "createdAt": "2026-08-01T08:58:28.149Z",
+    "expired": true
+  },
+  "2586": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Tirupati",
+    "package": 2.4,
+    "qualification": "BE/B.Tech, BCA, B.Sc, MCA, ME/M.Tech",
+    "createdAt": "2026-08-03T10:26:34.705Z",
+    "expired": true
+  },
+  "2587": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BE/B.Tech, BCA, B.Sc, MCA, M.Sc",
+    "createdAt": "2026-08-03T12:11:44.882Z",
+    "expired": true
+  },
+  "2588": {
+    "title": "Python Full Stack Developer",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BCA, B.Sc, BE/B.Tech, MCA, M.Sc",
+    "createdAt": "2026-08-03T12:20:19.736Z",
+    "expired": true
+  },
+  "2589": {
+    "title": "Data Analyst",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BCA, BE/B.Tech, B.Sc, MCA, M.Sc",
+    "createdAt": "2026-08-03T12:24:49.773Z",
+    "expired": true
+  },
+  "2590": {
+    "title": "AI/ML Engineer",
+    "location": "Bengaluru",
+    "package": 4.5,
+    "qualification": "BCA, BE/B.Tech, MCA, M.Sc, B.Sc",
+    "createdAt": "2026-08-03T12:30:55.115Z",
+    "expired": true
+  },
+  "2591": {
+    "title": "Junior Software Engineer",
+    "location": "Bengaluru",
+    "package": 12,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA, BCA",
+    "createdAt": "2026-08-04T09:14:06.008Z",
+    "expired": true
+  }
+}
