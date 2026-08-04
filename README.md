@@ -1,6 +1,6 @@
 # TAP Academy Job Notifier
 
-Checks TAP Academy's own job-listings API every 5 minutes and emails you when a new
+Checks TAP Academy's own job-listings API every 3 hours and emails you when a new
 job posting appears.
 
 ## How it works
@@ -40,10 +40,15 @@ in a couple of seconds, so it's cheap to run frequently.
    - `EMAIL_PASS` → the 16-character app password from step 2
    - `EMAIL_TO` → the email address you want notifications sent to (can be the same as EMAIL_USER)
 
-4. **Trigger it once manually** to confirm it works: GitHub repo → **Actions** tab →
+4. **Enable workflow write permissions** (required so the workflow can commit `state.json` back):
+   - GitHub repo → **Settings** → **Actions** → **General**
+   - Scroll to **Workflow permissions** → select **Read and write permissions**
+   - Click **Save**
+
+5. **Trigger it once manually** to confirm it works: GitHub repo → **Actions** tab →
    "Check TAP Academy Job Postings" → **Run workflow**.
 
-5. Done. It now runs automatically every 5 minutes. The first run just saves a baseline
+6. Done. It now runs automatically every 3 hours. The first run just saves a baseline
    of currently active jobs (no email); every run after that only emails you about
    postings that weren't there before.
 
