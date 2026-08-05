@@ -1,20 +1,4 @@
 {
-  "2541": {
-    "title": "Salesforce dveloper",
-    "location": "Anantapur",
-    "package": 4,
-    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, M.Sc, ME/M.Tech",
-    "createdAt": "2026-06-25T06:35:44.953Z",
-    "expired": true
-  },
-  "2542": {
-    "title": "Junior Engineer",
-    "location": "Bengaluru",
-    "package": 4.2,
-    "qualification": "BE/B.Tech, ME/M.Tech, MCA",
-    "createdAt": "2026-06-25T06:40:23.493Z",
-    "expired": true
-  },
   "2544": {
     "title": "Full Stack Java Developer",
     "location": "Bengaluru",
@@ -398,5 +382,21 @@
     "qualification": "BE/B.Tech, ME/M.Tech, MCA, BCA",
     "createdAt": "2026-08-04T09:14:06.008Z",
     "expired": true
+  },
+  "2592": {
+    "title": "Junior Developer",
+    "location": "Jaipur",
+    "package": 3.6,
+    "qualification": "B.Sc, BE/B.Tech, BCA, M.Sc",
+    "createdAt": "2026-08-05T05:50:01.187Z",
+    "expired": false
+  },
+  "2593": {
+    "title": "SoftwareDeveloper",
+    "location": "Mysore",
+    "package": 3,
+    "qualification": "BE/B.Tech, ME/M.Tech, BCA, MCA",
+    "createdAt": "2026-08-05T06:55:06.440Z",
+    "expired": false
   }
 }
