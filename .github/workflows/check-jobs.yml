@@ -2,7 +2,7 @@ name: Check TAP Academy Job Postings
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # Every 3 hours
+    - cron: "0 3,6,9,12,14 * * *" # ~8:30am to ~7:30pm IST, every ~3h
   workflow_dispatch: # Allow manual trigger
 
 permissions:
