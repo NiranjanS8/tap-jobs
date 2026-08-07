@@ -7,14 +7,6 @@
     "createdAt": "2026-06-25T12:12:52.666Z",
     "expired": true
   },
-  "2545": {
-    "title": "Software Engineer",
-    "location": "Bengaluru",
-    "package": 4.5,
-    "qualification": "BE/B.Tech, BCA, ME/M.Tech",
-    "createdAt": "2026-06-25T12:19:09.123Z",
-    "expired": true
-  },
   "2546": {
     "title": "Software Test Engineer",
     "location": "Bengaluru",
@@ -398,5 +390,13 @@
     "qualification": "BE/B.Tech, ME/M.Tech, BCA, MCA",
     "createdAt": "2026-08-05T06:55:06.440Z",
     "expired": true
+  },
+  "2594": {
+    "title": "Full stack Developer",
+    "location": "Bengaluru",
+    "package": 8,
+    "qualification": "B.Sc, B.Com, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc, MS, Diploma",
+    "createdAt": "2026-08-07T13:12:21.991Z",
+    "expired": false
   }
 }
