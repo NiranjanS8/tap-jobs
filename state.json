@@ -7,14 +7,6 @@
     "createdAt": "2026-06-25T12:12:52.666Z",
     "expired": true
   },
-  "2546": {
-    "title": "Software Test Engineer",
-    "location": "Bengaluru",
-    "package": 8,
-    "qualification": "B.Sc, BCA, BE/B.Tech",
-    "createdAt": "2026-06-25T12:26:19.093Z",
-    "expired": true
-  },
   "2547": {
     "title": "Full stack Developer",
     "location": "Kochi",
@@ -398,5 +390,13 @@
     "qualification": "B.Sc, B.Com, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc, MS, Diploma",
     "createdAt": "2026-08-07T13:12:21.991Z",
     "expired": false
+  },
+  "2595": {
+    "title": "Forward Deployed Engineer",
+    "location": "Chennai",
+    "package": 7,
+    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-08-07T14:41:56.683Z",
+    "expired": true
   }
 }
