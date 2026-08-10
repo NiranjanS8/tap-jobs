@@ -1,12 +1,4 @@
 {
-  "2544": {
-    "title": "Full Stack Java Developer",
-    "location": "Bengaluru",
-    "package": 8,
-    "qualification": "B.Sc, BCA, BE/B.Tech",
-    "createdAt": "2026-06-25T12:12:52.666Z",
-    "expired": true
-  },
   "2547": {
     "title": "Full stack Developer",
     "location": "Kochi",
@@ -398,5 +390,13 @@
     "qualification": "B.Sc, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc",
     "createdAt": "2026-08-07T14:41:56.683Z",
     "expired": true
+  },
+  "2596": {
+    "title": "Junior Python Developer",
+    "location": "Bengaluru",
+    "package": 3.5,
+    "qualification": "BE/B.Tech, ME/M.Tech",
+    "createdAt": "2026-08-10T11:31:12.756Z",
+    "expired": false
   }
 }
