@@ -1,12 +1,4 @@
 {
-  "2552": {
-    "title": "Software Developers",
-    "location": "Coimbatore",
-    "package": 3,
-    "qualification": "BCA, MCA, BE/B.Tech, M.Sc, B.Sc",
-    "createdAt": "2026-07-03T12:31:44.465Z",
-    "expired": true
-  },
   "2553": {
     "title": "Software Developers",
     "location": "Kozhikode",
@@ -398,5 +390,13 @@
     "qualification": "BE/B.Tech",
     "createdAt": "2026-08-13T09:17:07.089Z",
     "expired": true
+  },
+  "2602": {
+    "title": "AI and Deep Learning",
+    "location": "Pune",
+    "package": 6,
+    "qualification": "BE/B.Tech, ME/M.Tech, M.Sc, MCA, BCA",
+    "createdAt": "2026-08-13T13:35:16.876Z",
+    "expired": false
   }
 }
