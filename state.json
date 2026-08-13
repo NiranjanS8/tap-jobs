@@ -1,12 +1,4 @@
 {
-  "2548": {
-    "title": "AI/ML Engineer",
-    "location": "Angamaly",
-    "package": 5,
-    "qualification": "ME/M.Tech, M.Sc, BE/B.Tech",
-    "createdAt": "2026-07-01T11:33:43.170Z",
-    "expired": true
-  },
   "2549": {
     "title": "Full Stack Java Developer",
     "location": "Bengaluru",
@@ -21,14 +13,6 @@
     "package": 3,
     "qualification": "B.Sc, BCA, BE/B.Tech, MCA",
     "createdAt": "2026-07-02T12:46:35.345Z",
-    "expired": true
-  },
-  "2551": {
-    "title": "Software Intern",
-    "location": "Bengaluru",
-    "package": 4,
-    "qualification": "BE/B.Tech, MCA, ME/M.Tech",
-    "createdAt": "2026-07-02T13:01:18.780Z",
     "expired": true
   },
   "2552": {
@@ -398,5 +382,21 @@
     "qualification": "BE/B.Tech",
     "createdAt": "2026-08-12T04:56:15.102Z",
     "expired": true
+  },
+  "2598": {
+    "title": "JAVA Full Stack Developer",
+    "location": "Chennai",
+    "package": 4,
+    "qualification": "ME/M.Tech, M.Sc, MCA",
+    "createdAt": "2026-08-13T05:45:56.213Z",
+    "expired": false
+  },
+  "2599": {
+    "title": "Python Developer",
+    "location": "Chennai",
+    "package": 4,
+    "qualification": "ME/M.Tech, MCA, M.Sc",
+    "createdAt": "2026-08-13T05:51:43.226Z",
+    "expired": false
   }
 }
