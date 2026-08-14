@@ -365,7 +365,7 @@
     "package": 4,
     "qualification": "ME/M.Tech, M.Sc, MCA",
     "createdAt": "2026-08-13T05:45:56.213Z",
-    "expired": false
+    "expired": true
   },
   "2599": {
     "title": "Python Developer",
@@ -373,7 +373,7 @@
     "package": 4,
     "qualification": "ME/M.Tech, MCA, M.Sc",
     "createdAt": "2026-08-13T05:51:43.226Z",
-    "expired": false
+    "expired": true
   },
   "2600": {
     "title": "Software Developers",
