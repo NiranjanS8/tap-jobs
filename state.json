@@ -1,12 +1,4 @@
 {
-  "2553": {
-    "title": "Software Developers",
-    "location": "Kozhikode",
-    "package": 3.6,
-    "qualification": "B.Sc, BCA, BE/B.Tech",
-    "createdAt": "2026-07-03T13:18:50.546Z",
-    "expired": true
-  },
   "2554": {
     "title": "Salesforce dveloper",
     "location": "Anantapur",
@@ -398,5 +390,13 @@
     "qualification": "BE/B.Tech, ME/M.Tech, M.Sc, MCA, BCA",
     "createdAt": "2026-08-13T13:35:16.876Z",
     "expired": true
+  },
+  "2603": {
+    "title": "Trainee SAP BTP Consultant",
+    "location": "Pune",
+    "package": 4.8,
+    "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
+    "createdAt": "2026-08-17T07:06:31.059Z",
+    "expired": false
   }
 }
