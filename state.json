@@ -7,22 +7,6 @@
     "createdAt": "2026-07-06T10:03:17.368Z",
     "expired": true
   },
-  "2555": {
-    "title": "Software Trainee",
-    "location": "Bengaluru",
-    "package": 4.5,
-    "qualification": "BE/B.Tech, BCA, MCA, B.Sc",
-    "createdAt": "2026-07-06T13:20:17.679Z",
-    "expired": true
-  },
-  "2556": {
-    "title": "Software Development Intern",
-    "location": "Chennai",
-    "package": 3,
-    "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
-    "createdAt": "2026-07-06T13:54:23.380Z",
-    "expired": true
-  },
   "2557": {
     "title": "Jr. Frontend Developer",
     "location": "Bengaluru",
@@ -397,6 +381,22 @@
     "package": 4.8,
     "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
     "createdAt": "2026-08-17T07:06:31.059Z",
+    "expired": false
+  },
+  "2604": {
+    "title": "Software Development Engineer (Intern)",
+    "location": "Pune",
+    "package": 7,
+    "qualification": "B.Sc, B.Com, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc, Diploma, MS, others",
+    "createdAt": "2026-08-17T08:43:20.435Z",
+    "expired": false
+  },
+  "2605": {
+    "title": "AI Engineer - Intern",
+    "location": "Hyderabad",
+    "package": 4,
+    "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, BCA, B.Sc",
+    "createdAt": "2026-08-17T08:53:29.827Z",
     "expired": false
   }
 }
