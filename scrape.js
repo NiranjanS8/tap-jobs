@@ -23,13 +23,26 @@ function saveState(state) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
 }
 
-async function fetchJobs() {
-  const res = await fetch(API_URL, {
-    headers: { Accept: "application/json" },
-  });
-  if (!res.ok) {
-    throw new Error(`API request failed: ${res.status} ${res.statusText}`);
+async function fetchWithRetry(url, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const res = await fetch(url, {
+      headers: { Accept: "application/json" },
+    });
+    if (res.ok) return res;
+
+    console.warn(`Attempt ${attempt}/${retries} failed: ${res.status} ${res.statusText}`);
+    if (attempt < retries) {
+      const delayMs = attempt * 5000;
+      console.log(`Retrying in ${delayMs / 1000}s...`);
+      await new Promise((r) => setTimeout(r, delayMs));
+    } else {
+      throw new Error(`API request failed after ${retries} attempts: ${res.status} ${res.statusText}`);
+    }
   }
+}
+
+async function fetchJobs() {
+  const res = await fetchWithRetry(API_URL);
   const json = await res.json();
 
   const jobs = {};
