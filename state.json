@@ -381,7 +381,7 @@
     "package": 4.8,
     "qualification": "BE/B.Tech, MCA, ME/M.Tech, M.Sc",
     "createdAt": "2026-08-17T07:06:31.059Z",
-    "expired": false
+    "expired": true
   },
   "2604": {
     "title": "Software Development Engineer (Intern)",
@@ -389,7 +389,7 @@
     "package": 7,
     "qualification": "B.Sc, B.Com, BCA, BE/B.Tech, MCA, ME/M.Tech, M.Sc, Diploma, MS, others",
     "createdAt": "2026-08-17T08:43:20.435Z",
-    "expired": false
+    "expired": true
   },
   "2605": {
     "title": "AI Engineer - Intern",
@@ -397,6 +397,6 @@
     "package": 4,
     "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, BCA, B.Sc",
     "createdAt": "2026-08-17T08:53:29.827Z",
-    "expired": false
+    "expired": true
   }
 }
