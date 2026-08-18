@@ -7,14 +7,6 @@
     "createdAt": "2026-07-06T10:03:17.368Z",
     "expired": true
   },
-  "2557": {
-    "title": "Jr. Frontend Developer",
-    "location": "Bengaluru",
-    "package": 6,
-    "qualification": "BE/B.Tech, BCA, MCA",
-    "createdAt": "2026-07-08T05:25:52.598Z",
-    "expired": true
-  },
   "2558": {
     "title": "Full Sack Developer Intern",
     "location": "Bengaluru",
@@ -398,5 +390,13 @@
     "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, BCA, B.Sc",
     "createdAt": "2026-08-17T08:53:29.827Z",
     "expired": true
+  },
+  "2606": {
+    "title": "Software Engineer Trainee",
+    "location": "Pune",
+    "package": 3.6,
+    "qualification": "B.Sc, BE/B.Tech, BCA, MCA, ME/M.Tech, M.Sc, MS",
+    "createdAt": "2026-08-18T09:12:13.098Z",
+    "expired": false
   }
 }
