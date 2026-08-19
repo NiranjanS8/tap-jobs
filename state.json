@@ -7,14 +7,6 @@
     "createdAt": "2026-07-06T10:03:17.368Z",
     "expired": true
   },
-  "2558": {
-    "title": "Full Sack Developer Intern",
-    "location": "Bengaluru",
-    "package": 12,
-    "qualification": "others",
-    "createdAt": "2026-07-08T13:35:53.020Z",
-    "expired": true
-  },
   "2559": {
     "title": "JAVA Full Stack Developer",
     "location": "Chennai",
@@ -29,14 +21,6 @@
     "package": 5,
     "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, B.Sc",
     "createdAt": "2026-07-09T11:23:27.467Z",
-    "expired": true
-  },
-  "2561": {
-    "title": "Data Analytics Intern",
-    "location": "Bengaluru",
-    "package": 6,
-    "qualification": "B.Sc, BCA, BE/B.Tech, MCA, ME/M.Tech, MS, M.Sc",
-    "createdAt": "2026-07-10T12:37:50.729Z",
     "expired": true
   },
   "2562": {
@@ -398,5 +382,21 @@
     "qualification": "B.Sc, BE/B.Tech, BCA, MCA, ME/M.Tech, M.Sc, MS",
     "createdAt": "2026-08-18T09:12:13.098Z",
     "expired": true
+  },
+  "2607": {
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "package": 7,
+    "qualification": "BE/B.Tech, ME/M.Tech",
+    "createdAt": "2026-08-19T10:54:15.357Z",
+    "expired": false
+  },
+  "2608": {
+    "title": "AI/ML Engineer",
+    "location": "Bengaluru",
+    "package": 7,
+    "qualification": "BE/B.Tech, ME/M.Tech",
+    "createdAt": "2026-08-19T11:06:34.965Z",
+    "expired": false
   }
 }
