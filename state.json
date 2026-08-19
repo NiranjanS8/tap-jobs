@@ -15,14 +15,6 @@
     "createdAt": "2026-07-09T11:18:32.925Z",
     "expired": true
   },
-  "2560": {
-    "title": "Full Stack Java Developer",
-    "location": "Indore",
-    "package": 5,
-    "qualification": "BE/B.Tech, ME/M.Tech, MCA, M.Sc, B.Sc",
-    "createdAt": "2026-07-09T11:23:27.467Z",
-    "expired": true
-  },
   "2562": {
     "title": "Junior Associate",
     "location": "Pune",
@@ -397,6 +389,14 @@
     "package": 7,
     "qualification": "BE/B.Tech, ME/M.Tech",
     "createdAt": "2026-08-19T11:06:34.965Z",
+    "expired": false
+  },
+  "2609": {
+    "title": "Python Developer",
+    "location": "Bengaluru",
+    "package": 4,
+    "qualification": "others",
+    "createdAt": "2026-08-19T12:50:04.314Z",
     "expired": false
   }
 }
