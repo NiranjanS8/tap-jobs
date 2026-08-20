@@ -381,7 +381,7 @@
     "package": 7,
     "qualification": "BE/B.Tech, ME/M.Tech",
     "createdAt": "2026-08-19T10:54:15.357Z",
-    "expired": false
+    "expired": true
   },
   "2608": {
     "title": "AI/ML Engineer",
@@ -389,7 +389,7 @@
     "package": 7,
     "qualification": "BE/B.Tech, ME/M.Tech",
     "createdAt": "2026-08-19T11:06:34.965Z",
-    "expired": false
+    "expired": true
   },
   "2609": {
     "title": "Python Developer",
