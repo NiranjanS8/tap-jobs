@@ -15,14 +15,6 @@
     "createdAt": "2026-07-14T05:40:12.746Z",
     "expired": true
   },
-  "2563": {
-    "title": "Java Developer",
-    "location": "New Delhi",
-    "package": 7,
-    "qualification": "BE/B.Tech, ME/M.Tech, MCA, BCA",
-    "createdAt": "2026-07-14T09:36:03.470Z",
-    "expired": true
-  },
   "2564": {
     "title": "Data Analyst",
     "location": "Bengaluru",
@@ -397,6 +389,14 @@
     "package": 8,
     "qualification": "BE/B.Tech",
     "createdAt": "2026-08-20T09:50:52.739Z",
+    "expired": false
+  },
+  "2611": {
+    "title": "Data Analyst",
+    "location": "Noida",
+    "package": 3.84,
+    "qualification": "B.Com, others",
+    "createdAt": "2026-08-20T13:15:51.608Z",
     "expired": false
   }
 }
