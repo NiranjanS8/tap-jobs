@@ -389,7 +389,7 @@
     "package": 8,
     "qualification": "BE/B.Tech",
     "createdAt": "2026-08-20T09:50:52.739Z",
-    "expired": false
+    "expired": true
   },
   "2611": {
     "title": "Data Analyst",
@@ -397,6 +397,6 @@
     "package": 3.84,
     "qualification": "B.Com, others",
     "createdAt": "2026-08-20T13:15:51.608Z",
-    "expired": false
+    "expired": true
   }
 }
